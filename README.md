@@ -9,6 +9,10 @@ USD/USDA language support for [Zed](https://zed.dev) using
 - File association for USD/USDA suffixes
 - Basic bracket pairing and indentation query support
 
+## Preview
+
+![USD syntax highlighting preview](preview.png)
+
 ## Install For Development (Local)
 
 1. Open Zed.
