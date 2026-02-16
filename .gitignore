@@ -1,0 +1,5 @@
+# Zed-generated local grammar cache/artifacts
+grammars/
+
+# macOS
+.DS_Store

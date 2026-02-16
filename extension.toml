@@ -1,0 +1,11 @@
+id = "usd"
+name = "USD"
+description = "Syntax highlighting for OpenUSD ASCII files (.usd, .usda)."
+version = "0.1.0"
+schema_version = 1
+authors = ["elkraneo"]
+repository = "https://github.com/elkraneo/zed-usd"
+
+[grammars.usd]
+repository = "https://github.com/ColinKennedy/tree-sitter-usd"
+commit = "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216"
