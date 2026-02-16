@@ -14,16 +14,8 @@ USD/USDA language support for [Zed](https://zed.dev) using
 1. Open Zed.
 2. Open command palette.
 3. Run `Extensions: Install Dev Extension`.
-4. Select this directory:
-   - `/Volumes/Plutonian/_Developer/zed-usd`
+4. Select the cloned local folder for this repository (for example: `/path/to/zed-usd`).
 5. Open `fixtures/basic.usda` or any `.usd`/`.usda` file and verify highlighting.
-
-## Publish
-
-1. Push this repository to GitHub:
-   - `https://github.com/elkraneo/zed-usd`
-2. In Zed, run `Extensions: Publish Extension` from the command palette.
-3. Follow the prompt flow (repo ownership/auth/version/tag).
 
 ## Project Layout
 
