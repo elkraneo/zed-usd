@@ -38,7 +38,8 @@ USD/USDA language support for [Zed](https://zed.dev) using
 This extension uses:
 
 - `tree-sitter-usd` at commit `4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216`
-- License: GPL-3.0-or-later
+- Upstream grammar license: GPL-3.0-or-later
+- Repository license: MIT
 
 See `THIRD_PARTY_NOTICES.md` and `LICENSE`.
 
